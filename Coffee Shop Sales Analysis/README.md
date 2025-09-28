@@ -4,6 +4,9 @@
 This project analyzes coffee shop sales data to identify revenue drivers, customer buying patterns, and store performance.  
 It includes both **business insights** and an interactive **Excel dashboard**.
 
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Dashboard.png)
+
 ## 📂 Files in this folder
 - `CoffeeShopSales_Analysis.pdf` → Business analysis report with insights & recommendations  
 - `CoffeeShop_Sales_Dashboard.xlsx` → Interactive Excel dashboard (with hidden data tables)  
