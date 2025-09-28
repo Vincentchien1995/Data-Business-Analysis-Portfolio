@@ -9,8 +9,10 @@ It includes both **business insights** and an interactive **Excel dashboard**.
 
 [![Dashboard Preview](Dashboard.png)](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png)
 
+## 📊 Dashboard Preview
 
 [![Coffee Shop Sales Dashboard](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/refs/heads/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png)](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/refs/heads/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png)
+
 
 
 
