@@ -31,8 +31,9 @@ Together, these workflows form a complete educational management process.
 
 ## 🧠 Tools & Techniques
 
-**Tools:**  
-- **bpmn.io (Camunda)** — Web-based BPMN 2.0 modeling tool for process design and export   
+**Tools:**
+- **bpmn.io (Camunda)** — Web-based BPMN 2.0 modeling tool used to design and export process diagrams  
+- **Visual Paradigm Online** — Platform used to create and visualize the Entity Relationship Diagram (ERD)  
 
 **Techniques:**  
 - **BPMN 2.0** — Standard notation for workflow visualization  
