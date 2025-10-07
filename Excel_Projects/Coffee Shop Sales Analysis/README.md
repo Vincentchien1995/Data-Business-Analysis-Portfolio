@@ -5,7 +5,7 @@ This project analyzes coffee shop sales data to identify revenue drivers, custom
 It includes both **business insights** and an interactive **Excel dashboard**.
 
 ## 🖼️ Dashboard Preview
-[![Dashboard Preview](Dashboard.png)](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png)
+[![Dashboard Preview](Dashboard.png)]([https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png])
 
 ## 📂 Files in this folder
 - `CoffeeShopSales_Analysis.pdf` → Business analysis report with insights & recommendations  
