@@ -22,3 +22,6 @@ It includes both **business insights** and an interactive **Excel dashboard**.
 ## 🛠 Tools Used
 - Excel (PivotTables, Slicers, Dashboard design)  
 - PowerPoint (Business report presentation)
+
+## 📈 Data Source  
+<a href="https://mavenanalytics.io/data-playground/coffee-shop-sales?pageSize=10" target="_blank">Coffee Shop Sales – Maven Analytics Data Playground</a>
