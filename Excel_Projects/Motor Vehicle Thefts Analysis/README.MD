@@ -19,8 +19,8 @@ It provides both **business insights** and an interactive **Excel dashboard** fo
 - **Urban areas** show more thefts overall, but **low-density regions like Gisborne** still report high rates → awareness campaigns needed beyond big cities  
 
 ## 🛠 Tools Used
-- Excel (PivotTables, Slicers, Chart Design, Dashboard Layout)  
-- PowerPoint (Business report presentation & visual summary slides)  
+- Excel (PivotTables, Slicers, Power Query for table joins, Chart Design, Dashboard Layout)  
+- PowerPoint (Business report presentation & visual summary slides)   
 
 ## 📈 Data Source
 [Kaggle – NZ Crime Chronicles: Motor Vehicle Theft Dataset](https://www.kaggle.com/)
