@@ -1,7 +1,7 @@
 # Walmart Sales Analysis 🛒
 
 ## 📊 Project Overview  
-This project explores **Walmart’s historical sales data** to identify key performance drivers, seasonal trends, and external factors influencing sales.  
+This project explores Walmart’s historical sales data to identify key performance drivers, seasonal trends, and external factors influencing sales.  
 It integrates **SQL data analysis** and **Tableau visualization** to support **data-driven retail strategy and operational decisions**.
 
 ---
