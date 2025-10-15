@@ -27,7 +27,7 @@ It integrates **SQL data analysis** and **Tableau visualization** to support dat
 ---
 
 ## 🛠 Tools Used  
-- **SQL** → Data cleaning, joins, aggregations, and feature extraction  
+- **SQL** → Data cleaning, aggregations, and feature extraction  
 - **Tableau** → Dashboard creation (KPIs, trends, store comparison, external factor analysis)  
 
 ---
