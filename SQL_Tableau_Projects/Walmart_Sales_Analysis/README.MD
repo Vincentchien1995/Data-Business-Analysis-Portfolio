@@ -6,8 +6,8 @@ It integrates **SQL data analysis** and **Tableau visualization** to support dat
 
 ---
 
-## 🖼️ Dashboard Preview  
-![Dashboard Preview](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/SQL_Tableau_Projects/Walmart_Sales_Analysis/Walmart_Sales_Dashboard.png)
+## 🖼️ Dashboard Preview
+📄 [View Full Dashboard (PDF)](https://github.com/Vincentchien1995/Data-Business-Analysis-Portfolio/blob/main/SQL_Tableau_Projects/Walmart_Sales_Analysis/Walmart_Sales_Dashboard.pdf)
 
 ---
 
