@@ -28,7 +28,7 @@ It integrates **SQL data analysis** and **Tableau visualization** to support dat
 
 ## 🛠 Tools Used  
 - **SQL** → Data quality checks, feature engineering, and analytical view creation 
-- **Tableau** → Dashboard creation (KPIs, trends, store comparison, external factor analysis)  
+- **Tableau** → Dashboard creation for KPIs, sales trends, store performance, and external factor analysis.  
 
 ---
 
