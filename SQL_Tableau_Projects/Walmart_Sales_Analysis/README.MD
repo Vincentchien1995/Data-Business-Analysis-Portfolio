@@ -20,7 +20,7 @@ It integrates **SQL data analysis** and **Tableau visualization** to support dat
 
 ## 🔍 Key Insights  
 - **Revenue Trends** → 2010–2011 show steady growth, but Q4 2012 dropped sharply, likely due to one-off market factors. 
-- **Store Performance** → Top-performing stores generate over **250M revenue**, while lower-ranked stores exhibit higher sales volatility.  
+- **Store Performance** → Top-performing stores show higher volatility, while lower-revenue stores maintain steadier performance.  
 - **Holiday Impact** → Average weekly sales are consistently higher during **holiday weeks**, confirming stronger seasonal demand.  
 - **Weather & Economic Factors** → Mild temperatures align with higher sales; CPI shows a slight positive relationship, while fuel price has a mild negative impact.  
 
