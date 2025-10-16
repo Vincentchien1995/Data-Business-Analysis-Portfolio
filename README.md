@@ -8,4 +8,4 @@ I have a background in **finance, accounting, and big data analytics**, and I am
 You can see more information in my [LinkedIn](https://www.linkedin.com/in/vincent-chien/).
 
 This repository was created to showcase my analytical and technical skills in:  
-**Excel, SQL, Tableau, Power BI, and Python.**
+**Excel, SQL, Tableau.**
