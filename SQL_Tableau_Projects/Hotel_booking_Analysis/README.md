@@ -30,13 +30,14 @@ This project provides a full end-to-end analysis of hotel booking satisfaction u
 ---
 
 ## 🛠 Tools Used  
-| Tool | Purpose |
-|------|---------|
-| **Python (Pandas)** | EDA: data loading, validity checks & summary statistics |
-| **SQL** | Dataset restructuring, joins, view creation, and analytical aggregation |
-| **Tableau** | Dashboard for hotel rankings, customer patterns, and satisfaction insights |
+
+- **Python (Pandas)** → EDA: data loading, missing & duplicate checks, summary statistics  
+- **SQL** → Dataset restructuring, joins, view creation, analytical aggregation  
+- **Tableau** → Dashboard for hotel rankings, customer patterns, and satisfaction insights  
 
 ---
 
 ## 📈 Data Source  
-Dataset developed for educational and analytical purposes, based on synthetic hotel booking and review records representing realistic hospitality trends.
+Dataset sourced from the **International Hotel Booking Analytics** dataset on Kaggle:  
+https://www.kaggle.com/datasets/alperenmyung/international-hotel-booking-analytics
+
