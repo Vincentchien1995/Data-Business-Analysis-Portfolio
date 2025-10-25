@@ -13,12 +13,10 @@ This project provides a full end-to-end analysis of hotel booking satisfaction u
 ---
 
 ## 📂 Files in this folder  
-| File | Description |
-|------|------------|
-| `Hotel_booking_analysis.pdf` | Business report summarizing analysis and insights |
-| `Hotel_booking_dashboard.png` | Tableau dashboard snapshot |
-| `hotel_booking.ipynb` | Python notebook for dataset loading, missing & duplicate checks, and descriptive statistics |
-| `hotel_booking.sql` | SQL queries for aggregation and analysis |
+- `Hotel_booking_analysis.pdf` → Business report summarizing analysis and insights  
+- `Hotel_booking_dashboard.png` → Tableau dashboard snapshot  
+- `hotel_booking.ipynb` → Python notebook for dataset loading, missing & duplicate checks, and descriptive statistics  
+- `hotel_booking.sql` → SQL queries for aggregation and analysis  
 
 ---
 
