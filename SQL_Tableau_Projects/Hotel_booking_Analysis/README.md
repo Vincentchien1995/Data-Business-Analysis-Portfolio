@@ -38,6 +38,6 @@ This project provides a full end-to-end analysis of hotel booking satisfaction u
 ---
 
 ## 📈 Data Source  
-Dataset sourced from the **International Hotel Booking Analytics** dataset on Kaggle:  
-https://www.kaggle.com/datasets/alperenmyung/international-hotel-booking-analytics
+<a href="https://www.kaggle.com/datasets/alperenmyung/international-hotel-booking-analytics" target="_blank">International Hotel Booking Analytics Dataset (Kaggle)</a>  
+
 
