@@ -20,12 +20,14 @@ A visual dashboard was developed to clearly highlight performance trends and sup
 
 ---
 
-## 🗂 Files in This Folder
+## 🗂️ Files in This Folder
 
-| File Name | Description |
-|----------|-------------|
-| `Coffee_Shop_Financial_Variance_Analysis.xlsx` | Raw financial data + Variance calculations |
-| `Roast Coffee Shop Variance Analysis_dashboard.xlsx` | Complete dashboard visualization |
+- `Coffee_Shop_Financial_Variance_Analysis.xlsx`  
+  → Raw financial data with Actual vs. Forecast values and variance calculations
+
+- `Roast Coffee Shop Variance Analysis_dashboard.xlsx`  
+  → Completed Excel dashboard visualization (Revenue, Expense & Profit Variance Charts)
+
 
 ---
 
