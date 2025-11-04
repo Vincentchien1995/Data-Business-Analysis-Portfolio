@@ -22,15 +22,6 @@ A **Financial Variance Dashboard** was created in Excel to visualize trends and 
 
 ---
 
-## 🧠 Key Insights
-
-- Revenue variance was influenced primarily by **fluctuations in Coffee and Food sales**.
-- Expenses remained generally **within expected forecasted levels**.
-- Profit performance was driven primarily by **revenue shortfalls**, not overspending.
-- Suggested actions include **targeted promotions** and **product bundling** to improve sales volume.
-
----
-
 ## 🗂 Files in This Folder
 
 | File Name | Description |
