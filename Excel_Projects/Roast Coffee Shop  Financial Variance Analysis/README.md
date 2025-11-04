@@ -40,6 +40,6 @@ A visual dashboard was developed to clearly highlight performance trends and sup
 ---
 
 ## 📈 Data Source
+<a href="https://www.kaggle.com/datasets/alejandromendozaarv/roast-coffee-shop-2023-financials/data" target="_blank">Roast Coffee Shop – 2023 Financials (Kaggle)</a>
 
----
 
