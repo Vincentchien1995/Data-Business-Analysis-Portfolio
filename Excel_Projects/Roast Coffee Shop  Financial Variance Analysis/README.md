@@ -1,18 +1,16 @@
 # ☕ Roast Coffee Shop Financial Variance Analysis
 
-This project analyzes the monthly financial performance of a roast coffee shop using **variance analysis** to compare **Actual vs. Forecasted** results. The goal is to identify key drivers behind revenue and expense changes, and provide actionable insights for business decision-making.
-
----
-
 ## 📊 Project Overview
 
-The analysis examines:
-- **Sales performance** by product category (Coffee vs. Food)
-- **Operating expenses** (Ingredients, Labor, Rent, Utilities, Marketing)
-- **Monthly profit variance**
-- Key cost & revenue drivers impacting profitability
+This project analyzes the monthly financial performance of a roast coffee shop using **variance analysis** to compare Actual vs. Forecasted results. The goal is to identify key drivers behind changes in revenue, operating expenses, and overall profitability. 
 
-A **Financial Variance Dashboard** was created in Excel to visualize trends and support management review.
+The analysis focuses on:
+- **Sales performance** by product category (Coffee vs. Food)
+- **Operating expenses** including Ingredients, Labor, Rent, Utilities, and Marketing
+- **Monthly profit variance**
+- **Key cost and revenue factors** influencing financial outcomes
+
+A visual dashboard was developed to clearly highlight performance trends and support data-driven business decision-making.
 
 ---
 
