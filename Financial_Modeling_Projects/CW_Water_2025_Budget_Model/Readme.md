@@ -12,8 +12,7 @@ The model includes:
 - Revenue modeling across SKU × Channel  
 - Rebate calculations  
 - COGS estimation using industry benchmarks  
-- Logistics & packaging cost modeling  
-- SG&A and fixed-cost assumptions  
+- Operating Expenses modeled using industry benchmarks  
 - Monthly & annual Income Statement (P&L)  
 - Executive dashboard summarizing key financial metrics  
 
