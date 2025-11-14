@@ -28,5 +28,34 @@ This project simulates a real FP&A assignment and demonstrates:
 
 ---
 
-## 📁 Project Structure
+## 📁 Files in this folder
+
+- **CW_Water_2025_Budget_Model.xlsx** → Full financial model (Revenue, COGS, OPEX, Rebates, P&L)
+- **CW_Water_Dashboard.png** → Dashboard snapshot summarizing KPIs
+- **CW_Water_IS_Annual.png** → Annual Income Statement
+- **CW_Water_IS_Monthly.png** → Monthly Income Statement
+- **CW_Water_2025_Project_Summary.pdf** → Project summary with assumptions and structure
+- **CW_Water_
+
+---
+
+## 🔍 Key Insights
+
+- **500mL SKUs drive the most revenue** → Consistent across all channels, especially in convenience stores.
+- **7-Eleven creates the largest rebate cost** → Due to bottle-based rebate structure (0.10 USD per bottle).
+- **Gross Margin ~72%** → Aligned with U.S. bottled water industry benchmarks.
+- **West Region delivers the highest revenue** → Supported by strong demand and channel coverage.
+- **Channel mix affects profitability** → Different SKUs + rebate structures lead to varying margin outcomes.
+
+---
+
+## 🛠 Tools Used
+
+- **Excel** → Revenue model, rebate engine, COGS estimation, OPEX calculation, monthly & annual P&L  
+- **Dashboard Design** → KPI visualization, SKU performance, region/channel comparison  
+- **Financial Modeling** → Forecasting, budgeting structure, cost modeling, margin analysis  
+
+---
+
+## 📊 Data Source
 
