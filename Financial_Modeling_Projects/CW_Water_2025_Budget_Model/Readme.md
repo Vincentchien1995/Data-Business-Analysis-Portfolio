@@ -41,11 +41,12 @@ This project simulates a real FP&A assignment and demonstrates:
 
 ## 🔍 Key Insights
 
-- **500mL SKUs drive the most revenue** → Consistent across all channels, especially in convenience stores.
-- **7-Eleven creates the largest rebate cost** → Due to bottle-based rebate structure (0.10 USD per bottle).
-- **Gross Margin ~72%** → Aligned with U.S. bottled water industry benchmarks.
-- **West Region delivers the highest revenue** → Supported by strong demand and channel coverage.
-- **Channel mix affects profitability** → Different SKUs + rebate structures lead to varying margin outcomes.
+- **Revenue peaks in July** → Highest monthly sales occur mid-year.
+- **US-West leads all regions** → Largest share of annual revenue.
+- **Two SKUs dominate revenue** → 1.0L 6PK and 0.5L 6PK drive most sales.
+- **Food channel contributes the most** → Largest share among all channels.
+- **Rebate impact is minimal** → Rebates remain small relative to total sales.
+- **Net income margin is low (~4%)** → Indicates a thin-profit operating structure.
 
 ---
 
