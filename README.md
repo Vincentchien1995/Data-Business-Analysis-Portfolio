@@ -1,11 +1,13 @@
 # Vincent Chien - Data Business Analysis Portfolio
 
 ## About me
-Hello everyone! My name is Vincent, and this is my portfolio.  
-I enjoy analyzing data, uncovering insights, and turning them into clear reports and dashboards that support decision-making.  
-I have a background in **finance, accounting, and big data analytics**, and I am now specializing in **business and data analysis**.
 
-You can see more information in my [LinkedIn](https://www.linkedin.com/in/vincent-chien/).
+Finance and business analysis professional with a background in finance, accounting, and big data analytics.  
+I focus on analyzing data, building clear reports and dashboards, and supporting data-driven decision-making.
 
-This repository was created to showcase my analytical and technical skills in:  
-**Excel, SQL, Tableau.**
+This portfolio showcases applied projects in financial analysis, reporting, and business analysis using  
+**Excel, SQL, Python, and Tableau**.
+
+For more details about my background and experience, please visit my  
+[LinkedIn](https://www.linkedin.com/in/vincent-chien/).
+
