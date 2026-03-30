@@ -20,6 +20,14 @@ A visual dashboard was developed to clearly highlight performance trends and sup
 
 ---
 
+## 🔍 Key Insights
+
+- Revenue declined (**-3.15%**) mainly due to weak Coffee sales  
+- Expenses decreased (**-3.69%**) → strong cost control, especially in Labor, Rent, and Marketing  
+- Focus should shift to **boosting revenue (especially coffee)** rather than further cost cutting
+
+---
+
 ## 🗂️ Files in This Folder
 
 - `Coffee_Shop_Financial_Variance_Analysis.xlsx`  
