@@ -17,10 +17,7 @@ A visual dashboard was developed to clearly highlight performance trends and sup
 ## 📈 Dashboard Preview
 
 ## 📈 Dashboard Preview
-
 ![Dashboard Preview](./Roast_Coffee_Shop_Variance_Analysis_dashboard.png)
-
-![Dashboard Preview](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Excel_Projects/Roast%20Coffee%20Shop%20%20Financial%20Variance%20Analysis/Roast%20Coffee%20Shop%20%20Variance%20Analysis_dashboard.png)
 
 ---
 
