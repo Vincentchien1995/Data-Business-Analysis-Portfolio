@@ -12,6 +12,13 @@ It provides both **business insights** and an interactive **Excel dashboard** fo
 - `Motor_Vehicle_Thefts_dashboard.png` → Preview image of the dashboard  
 - `Motor_Vehicle_Thefts_dashboard.xlsx` → Interactive Excel dashboard (with slicers for year & month)  
 
+
+## 📂 Files in this folder
+
+- 📊 [MotorVehicletheft_analysis (PDF)](./MotorVehicletheft_analysis.pdf) → Business analysis report with insights & recommendations  
+- 🖼️ [Motor_Vehicle_Thefts_dashboard](./Motor_Vehicle_Thefts_dashboard.png) → Preview image of the dashboard  
+- 📈 [Motor_Vehicle_Thefts_dashboard](./Motor_Vehicle_Thefts_dashboard.xlsx) → Interactive Excel dashboard (with slicers for year & month)  
+
 ## 🔍 Key Insights
 - **Gisborne** shows the highest theft rate → increase patrols & strengthen preventive measures  
 - **Sharp rise until March 2022**, followed by a steep drop → possible effect of new policies  
