@@ -12,11 +12,14 @@ It integrates **SQL data analysis** and **Tableau visualization** to support dat
 🌐 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/vincent.chien/viz/WlamartSalesAnalysis/Dashboard3)  
 
 ---
-
-## 📂 Files in this folder  
-- `Walmart_Sales_Analysis.pdf` → Business report summarizing analysis process, KPIs, and insights  
-- `Walmart_Sales_Dashboard.pdf` → Tableau dashboard snapshot for visual reference  
-- `Walmart_Sales.sql` → SQL queries for data cleaning, aggregation, and analysis  
+ 
+## 📂 Files in this folder
+- 📊 [Business Report (PDF)](./Walmart_sales_analysis.pdf)  
+  → Business report summarizing analysis process, KPIs, and insights  
+- 🖼️ [Dashboard Preview](./Walmart_sales_dashboard.png)  
+  → Tableau dashboard snapshot for visual reference  
+- 🧮 [SQL Queries](./Walmart_Sales.sql)  
+  → SQL queries for data cleaning, aggregation, and analysis  
 
 ---
 
