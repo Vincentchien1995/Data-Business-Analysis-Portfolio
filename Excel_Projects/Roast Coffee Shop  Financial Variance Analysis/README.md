@@ -32,7 +32,7 @@ A visual dashboard was developed to clearly highlight performance trends and sup
 - 📊 [Coffee_Shop_Financial_Variance_Analysis (Excel)](./Coffee_Shop_Financial_Variance_Analysis.xlsx)  
   → Raw financial data with Actual vs. Forecast values and variance calculations  
 
-- 📈 [Variance Dashboard (Png)](./Roast_Coffee_Shop_Variance_Analysis_dashboard.xlsx)  
+- 📈 [Variance Dashboard (Png)](./Roast_Coffee_Shop_Variance_Analysis_dashboard.png)  
   → Completed Excel dashboard visualization (Revenue, Expense & Profit Variance Charts)  
 
 ---
