@@ -12,7 +12,12 @@ It includes both **business insights** and an interactive **Excel dashboard**.
 ## 📂 Files in this folder
 - `CoffeeShopSales_Analysis.pdf` → Business analysis report with insights & recommendations  
 - `CoffeeShop_Sales_Dashboard.xlsx` → Interactive Excel dashboard (with hidden data tables)  
-- `Dashboard.png` → Preview image of the dashboard  
+- `Dashboard.png` → Preview image of the dashboard
+- ## 📂 Files in this folder
+
+- 📊 [Business Report (PDF)](./CoffeeShopSales_Analysis.pdf) → Business analysis report with insights & recommendations  
+- 📈 [Excel Dashboard](./CoffeeShop_Sales_Dashboard.xlsx) → Interactive Excel dashboard (with hidden data tables)  
+- 🖼️ [Dashboard Preview](./Coffeeshop_sale_dashboard.png) → Preview image of the dashboard  
 
 ## 🔍 Key Insights
 - Coffee & Tea generate ~67% of revenue → core categories for promotion  
