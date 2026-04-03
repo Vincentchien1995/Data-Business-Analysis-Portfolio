@@ -35,7 +35,6 @@ A visual dashboard was developed to clearly highlight performance trends and sup
 - 📈 [Variance Dashboard (Png)](./Roast_Coffee_Shop_Variance_Analysis_dashboard.xlsx)  
   → Completed Excel dashboard visualization (Revenue, Expense & Profit Variance Charts)  
 
-
 ---
 
 ## 🛠 Tools Used
