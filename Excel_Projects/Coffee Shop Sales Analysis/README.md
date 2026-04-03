@@ -15,8 +15,8 @@ It includes both **business insights** and an interactive **Excel dashboard**.
 - `Dashboard.png` → Preview image of the dashboard
 - ## 📂 Files in this folder
 
-- 📊 [Business Report (PDF)](./CoffeeShopSales_Analysis.pdf) → Business analysis report with insights & recommendations  
-- 📈 [Excel Dashboard](./CoffeeShop_Sales_Dashboard.xlsx) → Interactive Excel dashboard (with hidden data tables)  
+- 📊 [CoffeeShopSales_Analysis (PDF)](./CoffeeShopSales_Analysis.pdf) → Business analysis report with insights & recommendations 
+- 📈 [CoffeeShop_Sales_Dashboard](./CoffeeShop_Sales_Dashboard.xlsx) → Interactive Excel dashboard (with hidden data tables)  
 - 🖼️ [Dashboard Preview](./Coffeeshop_sale_dashboard.png) → Preview image of the dashboard  
 
 ## 🔍 Key Insights
