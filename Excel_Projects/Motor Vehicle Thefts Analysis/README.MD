@@ -5,8 +5,6 @@ This project analyzes **motor vehicle theft data in New Zealand** to uncover reg
 It provides both **business insights** and an interactive **Excel dashboard** for visualization and decision support.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Excel_Projects/Motor_Vehicle_Thefts_dashboard.png)
-
 ![Dashboard Preview](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Excel_Projects/Motor%20Vehicle%20Thefts%20Analysis/Motor_Vehicle_Thefts_dashboard.png)
 
 ## 📂 Files in this folder
