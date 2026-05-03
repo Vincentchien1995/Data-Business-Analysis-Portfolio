@@ -5,21 +5,16 @@
 
 ## 📌 Project Overview
 
-This project analyzes procurement operations across multiple suppliers using a **data-driven analytical framework** to identify cost drivers, evaluate negotiation effectiveness, and assess supplier performance.
+This project analyzes procurement operations across multiple suppliers to identify cost drivers, evaluate negotiation effectiveness, and assess supplier performance.
 
-The company manages over **700+ purchase orders (2022–2023)** and faces challenges such as rising costs, supplier delays, and inconsistent quality. The analysis aims to improve visibility into procurement performance and support more effective, data-driven decision-making.
+Based on **700+ purchase orders (2022–2023)**, the analysis addresses challenges such as rising costs, supplier delays, and inconsistent quality to support better decision-making.
 
-The scope of the analysis includes:
+The analysis covers:
 
-- **Spend analysis** by supplier and category  
-- **Cost savings analysis** (Unit Price vs. Negotiated Price)  
-- **Supplier performance evaluation**:
-  - Lead time  
-  - Defect rate  
-  - Compliance rate  
-- **Procurement efficiency and cost structure insights**  
-
-This project simulates a real-world **procurement analytics / FP&A scenario**, demonstrating:
+- Spend analysis by supplier and category  
+- Cost savings (Unit Price vs. Negotiated Price)  
+- Supplier performance (lead time, defect rate, compliance)  
+- Procurement efficiency and cost structure insights  
 
 **Excel analytics • cost optimization • supplier evaluation • business insights • dashboard design**
 
