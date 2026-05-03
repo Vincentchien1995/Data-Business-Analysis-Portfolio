@@ -7,7 +7,7 @@
 
 This project analyzes procurement operations across multiple suppliers using a **data-driven analytical framework** to identify cost drivers, evaluate negotiation effectiveness, and assess supplier performance.
 
-The company manages over **700+ purchase orders across 2022–2023**, facing challenges such as rising costs, supplier delays, and inconsistent quality. :contentReference[oaicite:0]{index=0}  
+The company manages over **700+ purchase orders across 2022–2023**, facing challenges such as rising costs, supplier delays, and inconsistent quality. 
 
 The analysis aims to improve visibility into procurement performance and support strategic decision-making.
 
