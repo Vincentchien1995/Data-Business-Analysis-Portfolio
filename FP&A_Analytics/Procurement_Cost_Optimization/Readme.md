@@ -67,5 +67,4 @@ The analysis covers:
 
 ## 📊 Data Source
 
-[`Procurement_KPI_Analysis.xlsx`](./Procurement_KPI_Analysis.xlsx)  
-→ Procurement dataset including pricing, quantity, supplier, lead time, quality, and compliance metrics
+[Procurement KPI Analysis Dataset (Kaggle)](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
