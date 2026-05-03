@@ -52,16 +52,8 @@ The analysis covers:
 
 ## 🛠 Tools Used
 
-- **Excel**
-  - Pivot Tables  
-  - KPI dashboard  
-  - Cost calculations (price vs negotiated)  
-  - Supplier performance metrics  
-
-- **Data Analysis**
-  - Spend analysis  
-  - Cost optimization  
-  - Supplier performance evaluation  
+**Excel:** Pivot Tables • KPI Dashboard • Cost Calculations  
+**Analysis:** Spend Analysis • Cost Optimization • Supplier Cost Evaluation 
 
 ---
 
