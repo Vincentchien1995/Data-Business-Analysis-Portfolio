@@ -1,3 +1,9 @@
-# Business Analytics Projects
+# 📊 Business Analytics Projects
 
-This section includes projects focused on business insights, customer behavior, and operational decision-making.
+Projects focused on data analysis, visualization, and business insights.
+
+## 🔎 Focus Areas
+- Data Analysis  
+- Data Visualization  
+- SQL & Dashboarding  
+- Business Insights  
