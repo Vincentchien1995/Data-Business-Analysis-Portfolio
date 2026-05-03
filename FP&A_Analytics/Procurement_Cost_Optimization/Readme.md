@@ -41,12 +41,10 @@ The analysis covers:
 
 ## 🔍 Key Insights
 
-- **Supplier spend is well-balanced** → reduces concentration risk but limits negotiation leverage  
-- **Production-related categories (Raw Materials, Packaging, Electronics) drive costs**  
-- **Alpha Inc shows strong negotiation but low overall impact**  
-- **Beta & Epsilon contribute highest cost impact → negotiation opportunity**  
-- **Delta Logistics has highest defect rate + low compliance → major risk**  
-- **Gamma Co has best lead time performance → most reliable supplier**  
+- Supplier spend is relatively balanced, reducing concentration risk but limiting negotiation leverage  
+- Production-related categories (Raw Materials, Packaging, Electronics) are the main cost drivers  
+- Supplier performance varies significantly, with Delta posing quality risks and Gamma offering strong reliability  
+- High-impact suppliers (e.g., Beta, Epsilon) present opportunities for further cost optimization  
 
 ---
 
