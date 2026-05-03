@@ -28,15 +28,6 @@ This project simulates a real FP&A assignment and demonstrates:
 
 ---
 
-## 📁 Files in this folder
-
-- `CW_Water_2025_Budget_Model.xlsx` → Full financial model (Revenue, COGS, OPEX, Rebates, P&L)
-- `CW_Water_Data.xls` → Raw input dataset used for revenue, volume, and channel calculations
-- `CW_Water_Dashboard.png` → Dashboard snapshot summarizing KPIs
-- `CW_Water_IS_Annual.png` → Annual Income Statement
-- `CW_Water_IS_Monthly.png` → Monthly Income Statement
-- `CW_Water_2025_Project_Summary.pdf` → Project summary with assumptions and structure
-
 ## 📂 Files in this folder
 
 - 📊 [Financial Model (Excel)](./CW_Water_Budget_2025.xlsx)  
@@ -76,5 +67,6 @@ This project simulates a real FP&A assignment and demonstrates:
 ## 📊 Data Source
 
 [`CW_Water_Data.xls`](https://github.com/Vincentchien1995/Data-Business-Analysis-Portfolio/blob/main/Financial_Modeling_Projects/CW_Water_2025_Budget_Model/CW_Water_Data.xls) → Raw dataset used for revenue, volume, SKU, and channel calculations.
+[`CW_Water_Data.xls`](./CW_Water_Data.xls) → Raw dataset used for revenue, volume, SKU, and channel calculations.
 
 
