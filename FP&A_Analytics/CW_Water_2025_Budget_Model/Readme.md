@@ -66,7 +66,6 @@ This project simulates a real FP&A assignment and demonstrates:
 
 ## 📊 Data Source
 
-[`CW_Water_Data.xls`](https://github.com/Vincentchien1995/Data-Business-Analysis-Portfolio/blob/main/Financial_Modeling_Projects/CW_Water_2025_Budget_Model/CW_Water_Data.xls) → Raw dataset used for revenue, volume, SKU, and channel calculations.
 [`CW_Water_Data.xls`](./CW_Water_Data.xls) → Raw dataset used for revenue, volume, SKU, and channel calculations.
 
 
