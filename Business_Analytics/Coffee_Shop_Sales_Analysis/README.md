@@ -6,7 +6,7 @@ It includes both **business insights** and an interactive **Excel dashboard**.
 
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](https://raw.githubusercontent.com/Vincentchien1995/Data-Business-Analysis-Portfolio/main/Excel_Projects/Coffee%20Shop%20Sales%20Analysis/Coffeeshop_sale_dashboard.png)
+![Dashboard Preview](./Coffeeshop_sale_dashboard.png)
 
 
 ## 📂 Files in this folder
