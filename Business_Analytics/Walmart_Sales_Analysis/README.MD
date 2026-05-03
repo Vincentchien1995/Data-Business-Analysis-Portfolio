@@ -18,7 +18,7 @@ It integrates **SQL data analysis** and **Tableau visualization** to support dat
   → Business report summarizing analysis process, KPIs, and insights  
 - 🖼️ [Dashboard Preview](./Walmart_sales_dashboard.png)  
   → Tableau dashboard snapshot for visual reference  
-- 🧮 [SQL Queries](./walmart_Sales.sql)  
+- 🧮 [SQL Queries](./walmart_sales.sql)  
   → SQL queries for data cleaning, aggregation, and analysis  
 
 ---
