@@ -8,6 +8,9 @@ This project provides a full end-to-end analysis of hotel booking satisfaction u
 ## 🖼️ Dashboard Preview  
 [![Dashboard Preview](https://github.com/Vincentchien1995/Data-Business-Analysis-Portfolio/blob/main/SQL_Tableau_Projects/Hotel_booking_Analysis/Hotel_booking_dashboard.png)](https://public.tableau.com/app/profile/vincent.chien/viz/HotelBookingAnalysis_17613968529020/Dashboard1)
 
+## 🖼️ Dashboard Preview  
+[![Dashboard Preview](./Hotel_booking_dashboard.png)](https://public.tableau.com/app/profile/vincent.chien/viz/HotelBookingAnalysis_17613968529020/Dashboard1)
+
 🌐 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/vincent.chien/viz/HotelBookingAnalysis_17613968529020/Dashboard1)  
 
 ---
