@@ -24,7 +24,6 @@ This project simulates a real FP&A assignment and demonstrates:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](https://github.com/Vincentchien1995/Data-Business-Analysis-Portfolio/blob/main/Financial_Modeling_Projects/CW_Water_2025_Budget_Model/CW_Water_Dashboard.png)
 ![Dashboard Preview](./CW_Water_Dashboard.png)
 
 ---
