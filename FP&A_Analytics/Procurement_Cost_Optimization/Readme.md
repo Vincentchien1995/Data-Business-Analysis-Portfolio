@@ -23,6 +23,7 @@ The analysis covers:
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](./Procurement_Cost_Optimization_dashboard.png)
+![Dashboard Preview](./Procurement_Cost_Optimization_dashboard.png?raw=true)
 
 ---
 
